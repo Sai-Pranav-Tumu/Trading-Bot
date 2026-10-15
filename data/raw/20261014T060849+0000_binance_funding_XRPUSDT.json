@@ -1,0 +1,3334 @@
+[
+  {
+    "fundingRate": "-0.00003318",
+    "fundingTime": 1778256000003,
+    "markPrice": "1.39671654",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007680",
+    "fundingTime": 1778284800000,
+    "markPrice": "1.41770000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008976",
+    "fundingTime": 1778313600001,
+    "markPrice": "1.42320000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007540",
+    "fundingTime": 1778342400002,
+    "markPrice": "1.41351007",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001120",
+    "fundingTime": 1778371200003,
+    "markPrice": "1.41981246",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003884",
+    "fundingTime": 1778400000000,
+    "markPrice": "1.41942018",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006689",
+    "fundingTime": 1778428800000,
+    "markPrice": "1.44370878",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1778457600000,
+    "markPrice": "1.47280000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004703",
+    "fundingTime": 1778486400000,
+    "markPrice": "1.44900000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001879",
+    "fundingTime": 1778515200000,
+    "markPrice": "1.48430000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002410",
+    "fundingTime": 1778544000002,
+    "markPrice": "1.47680000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002648",
+    "fundingTime": 1778572800008,
+    "markPrice": "1.46210000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002217",
+    "fundingTime": 1778601600000,
+    "markPrice": "1.42329895",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001253",
+    "fundingTime": 1778630400010,
+    "markPrice": "1.43640554",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1778659200003,
+    "markPrice": "1.46180000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005790",
+    "fundingTime": 1778688000001,
+    "markPrice": "1.41240508",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005437",
+    "fundingTime": 1778716800005,
+    "markPrice": "1.42622638",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007996",
+    "fundingTime": 1778745600000,
+    "markPrice": "1.43180000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1778774400000,
+    "markPrice": "1.47209736",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008567",
+    "fundingTime": 1778803200000,
+    "markPrice": "1.48450000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002987",
+    "fundingTime": 1778832000016,
+    "markPrice": "1.46892518",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006287",
+    "fundingTime": 1778860800012,
+    "markPrice": "1.43440000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001523",
+    "fundingTime": 1778889600005,
+    "markPrice": "1.43320000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001694",
+    "fundingTime": 1778918400000,
+    "markPrice": "1.41590000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003918",
+    "fundingTime": 1778947200005,
+    "markPrice": "1.41370605",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000704",
+    "fundingTime": 1778976000000,
+    "markPrice": "1.41294175",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001073",
+    "fundingTime": 1779004800010,
+    "markPrice": "1.41770000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003311",
+    "fundingTime": 1779033600009,
+    "markPrice": "1.41230000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006795",
+    "fundingTime": 1779062400007,
+    "markPrice": "1.40068024",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000270",
+    "fundingTime": 1779091200002,
+    "markPrice": "1.38600000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005319",
+    "fundingTime": 1779120000007,
+    "markPrice": "1.37580000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001098",
+    "fundingTime": 1779148800001,
+    "markPrice": "1.38950000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002219",
+    "fundingTime": 1779177600001,
+    "markPrice": "1.38781828",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007578",
+    "fundingTime": 1779206400009,
+    "markPrice": "1.36660000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002528",
+    "fundingTime": 1779235200001,
+    "markPrice": "1.36080000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004214",
+    "fundingTime": 1779264000006,
+    "markPrice": "1.36770000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001426",
+    "fundingTime": 1779292800000,
+    "markPrice": "1.37400000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002074",
+    "fundingTime": 1779321600001,
+    "markPrice": "1.36650073",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005825",
+    "fundingTime": 1779350400000,
+    "markPrice": "1.37543822",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005371",
+    "fundingTime": 1779379200000,
+    "markPrice": "1.36080584",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002031",
+    "fundingTime": 1779408000000,
+    "markPrice": "1.37330000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000618",
+    "fundingTime": 1779436800004,
+    "markPrice": "1.36417592",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00010492",
+    "fundingTime": 1779465600001,
+    "markPrice": "1.35280000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003826",
+    "fundingTime": 1779494400009,
+    "markPrice": "1.33343691",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00008488",
+    "fundingTime": 1779523200001,
+    "markPrice": "1.31133828",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000359",
+    "fundingTime": 1779552000003,
+    "markPrice": "1.33511430",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004818",
+    "fundingTime": 1779580800011,
+    "markPrice": "1.35745065",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003251",
+    "fundingTime": 1779609600008,
+    "markPrice": "1.35880000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002035",
+    "fundingTime": 1779638400000,
+    "markPrice": "1.34770000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005123",
+    "fundingTime": 1779667200001,
+    "markPrice": "1.34992620",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005352",
+    "fundingTime": 1779696000001,
+    "markPrice": "1.35830353",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008078",
+    "fundingTime": 1779724800001,
+    "markPrice": "1.35823293",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004288",
+    "fundingTime": 1779753600000,
+    "markPrice": "1.34941578",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005634",
+    "fundingTime": 1779782400003,
+    "markPrice": "1.33990000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003317",
+    "fundingTime": 1779811200000,
+    "markPrice": "1.34420000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00008198",
+    "fundingTime": 1779840000000,
+    "markPrice": "1.32820575",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000674",
+    "fundingTime": 1779868800004,
+    "markPrice": "1.33125092",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004491",
+    "fundingTime": 1779897600009,
+    "markPrice": "1.33590000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000137",
+    "fundingTime": 1779926400001,
+    "markPrice": "1.30680000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00011609",
+    "fundingTime": 1779955200000,
+    "markPrice": "1.29250000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000443",
+    "fundingTime": 1779984000001,
+    "markPrice": "1.31179351",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001263",
+    "fundingTime": 1780012800000,
+    "markPrice": "1.31471617",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008370",
+    "fundingTime": 1780041600001,
+    "markPrice": "1.31630000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000530",
+    "fundingTime": 1780070400008,
+    "markPrice": "1.32212800",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002343",
+    "fundingTime": 1780099200000,
+    "markPrice": "1.32904477",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002733",
+    "fundingTime": 1780128000001,
+    "markPrice": "1.34220000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001780",
+    "fundingTime": 1780156800000,
+    "markPrice": "1.34176768",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001878",
+    "fundingTime": 1780185600000,
+    "markPrice": "1.34020000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003388",
+    "fundingTime": 1780214400000,
+    "markPrice": "1.33469543",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000990",
+    "fundingTime": 1780243200004,
+    "markPrice": "1.33004158",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004472",
+    "fundingTime": 1780272000001,
+    "markPrice": "1.33270000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1780300800001,
+    "markPrice": "1.30294740",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004341",
+    "fundingTime": 1780329600000,
+    "markPrice": "1.28146645",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004433",
+    "fundingTime": 1780358400000,
+    "markPrice": "1.29668943",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001397",
+    "fundingTime": 1780387200000,
+    "markPrice": "1.26733621",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001948",
+    "fundingTime": 1780416000000,
+    "markPrice": "1.22142435",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00015745",
+    "fundingTime": 1780444800013,
+    "markPrice": "1.21090000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003378",
+    "fundingTime": 1780473600000,
+    "markPrice": "1.24272318",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005197",
+    "fundingTime": 1780502400001,
+    "markPrice": "1.22460000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004372",
+    "fundingTime": 1780531200009,
+    "markPrice": "1.20060000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001693",
+    "fundingTime": 1780560000000,
+    "markPrice": "1.16733679",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00013728",
+    "fundingTime": 1780588800003,
+    "markPrice": "1.16815269",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00008181",
+    "fundingTime": 1780617600000,
+    "markPrice": "1.16795789",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00011618",
+    "fundingTime": 1780646400004,
+    "markPrice": "1.13586936",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003183",
+    "fundingTime": 1780675200009,
+    "markPrice": "1.09940000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001589",
+    "fundingTime": 1780704000000,
+    "markPrice": "1.09710941",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005612",
+    "fundingTime": 1780732800000,
+    "markPrice": "1.09180000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004320",
+    "fundingTime": 1780761600000,
+    "markPrice": "1.09549306",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00009526",
+    "fundingTime": 1780790400001,
+    "markPrice": "1.09280219",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00015900",
+    "fundingTime": 1780819200000,
+    "markPrice": "1.13620000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00008572",
+    "fundingTime": 1780848000000,
+    "markPrice": "1.13331233",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006122",
+    "fundingTime": 1780876800000,
+    "markPrice": "1.15480000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001982",
+    "fundingTime": 1780905600005,
+    "markPrice": "1.14730000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003083",
+    "fundingTime": 1780934400004,
+    "markPrice": "1.17040000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006450",
+    "fundingTime": 1780963200000,
+    "markPrice": "1.16770000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001759",
+    "fundingTime": 1780992000000,
+    "markPrice": "1.17080000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00008077",
+    "fundingTime": 1781020800001,
+    "markPrice": "1.12720000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000635",
+    "fundingTime": 1781049600001,
+    "markPrice": "1.13673597",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001337",
+    "fundingTime": 1781078400011,
+    "markPrice": "1.11610000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001702",
+    "fundingTime": 1781107200009,
+    "markPrice": "1.12810427",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007816",
+    "fundingTime": 1781136000000,
+    "markPrice": "1.09630000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001234",
+    "fundingTime": 1781164800004,
+    "markPrice": "1.11470000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002752",
+    "fundingTime": 1781193600000,
+    "markPrice": "1.11250000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003916",
+    "fundingTime": 1781222400000,
+    "markPrice": "1.14214579",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003242",
+    "fundingTime": 1781251200000,
+    "markPrice": "1.13300000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005450",
+    "fundingTime": 1781280000000,
+    "markPrice": "1.12810000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006026",
+    "fundingTime": 1781308800000,
+    "markPrice": "1.13184954",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003360",
+    "fundingTime": 1781337600007,
+    "markPrice": "1.14111406",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001700",
+    "fundingTime": 1781366400002,
+    "markPrice": "1.15609204",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004383",
+    "fundingTime": 1781395200005,
+    "markPrice": "1.14997309",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00009324",
+    "fundingTime": 1781424000009,
+    "markPrice": "1.14560000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007574",
+    "fundingTime": 1781452800000,
+    "markPrice": "1.13423400",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003163",
+    "fundingTime": 1781481600013,
+    "markPrice": "1.18530000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004105",
+    "fundingTime": 1781510400013,
+    "markPrice": "1.18070108",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005327",
+    "fundingTime": 1781539200004,
+    "markPrice": "1.26783689",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007603",
+    "fundingTime": 1781568000000,
+    "markPrice": "1.23750143",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003878",
+    "fundingTime": 1781596800000,
+    "markPrice": "1.23480000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000830",
+    "fundingTime": 1781625600001,
+    "markPrice": "1.20930000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002018",
+    "fundingTime": 1781654400012,
+    "markPrice": "1.21670000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001439",
+    "fundingTime": 1781683200000,
+    "markPrice": "1.20891796",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000784",
+    "fundingTime": 1781712000000,
+    "markPrice": "1.21278418",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000961",
+    "fundingTime": 1781740800002,
+    "markPrice": "1.18617304",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005087",
+    "fundingTime": 1781769600000,
+    "markPrice": "1.17810000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001622",
+    "fundingTime": 1781798400001,
+    "markPrice": "1.13740000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006346",
+    "fundingTime": 1781827200005,
+    "markPrice": "1.14602355",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004640",
+    "fundingTime": 1781856000001,
+    "markPrice": "1.12480000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006843",
+    "fundingTime": 1781884800001,
+    "markPrice": "1.13633341",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003917",
+    "fundingTime": 1781913600001,
+    "markPrice": "1.13517605",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004504",
+    "fundingTime": 1781942400000,
+    "markPrice": "1.14670000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000209",
+    "fundingTime": 1781971200001,
+    "markPrice": "1.14990000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00008279",
+    "fundingTime": 1782000000000,
+    "markPrice": "1.14940000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000991",
+    "fundingTime": 1782028800000,
+    "markPrice": "1.14680000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000716",
+    "fundingTime": 1782057600000,
+    "markPrice": "1.14914813",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000189",
+    "fundingTime": 1782086400000,
+    "markPrice": "1.12430000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000729",
+    "fundingTime": 1782115200000,
+    "markPrice": "1.13685119",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004147",
+    "fundingTime": 1782144000002,
+    "markPrice": "1.13918717",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00011229",
+    "fundingTime": 1782172800003,
+    "markPrice": "1.12880000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001998",
+    "fundingTime": 1782201600005,
+    "markPrice": "1.11220000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007911",
+    "fundingTime": 1782230400002,
+    "markPrice": "1.09859356",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000687",
+    "fundingTime": 1782259200005,
+    "markPrice": "1.10937887",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003248",
+    "fundingTime": 1782288000005,
+    "markPrice": "1.09820000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007712",
+    "fundingTime": 1782316800003,
+    "markPrice": "1.05784442",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00015230",
+    "fundingTime": 1782345600000,
+    "markPrice": "1.07291156",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003356",
+    "fundingTime": 1782374400000,
+    "markPrice": "1.08650000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00012131",
+    "fundingTime": 1782403200000,
+    "markPrice": "1.03420000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00009715",
+    "fundingTime": 1782432000010,
+    "markPrice": "1.04280483",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002829",
+    "fundingTime": 1782460800002,
+    "markPrice": "1.04922887",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00015255",
+    "fundingTime": 1782489600000,
+    "markPrice": "1.04450000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00011229",
+    "fundingTime": 1782518400000,
+    "markPrice": "1.04830000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007705",
+    "fundingTime": 1782547200000,
+    "markPrice": "1.05960000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00014459",
+    "fundingTime": 1782576000009,
+    "markPrice": "1.07456597",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00013963",
+    "fundingTime": 1782604800000,
+    "markPrice": "1.04697562",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00013755",
+    "fundingTime": 1782633600013,
+    "markPrice": "1.05046859",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00010487",
+    "fundingTime": 1782662400000,
+    "markPrice": "1.05161109",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007522",
+    "fundingTime": 1782691200006,
+    "markPrice": "1.04800000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002137",
+    "fundingTime": 1782720000013,
+    "markPrice": "1.04865234",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002077",
+    "fundingTime": 1782748800004,
+    "markPrice": "1.04900000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003184",
+    "fundingTime": 1782777600000,
+    "markPrice": "1.05839770",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007562",
+    "fundingTime": 1782806400000,
+    "markPrice": "1.04680000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000997",
+    "fundingTime": 1782835200005,
+    "markPrice": "1.03350000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003247",
+    "fundingTime": 1782864000000,
+    "markPrice": "1.03951445",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000461",
+    "fundingTime": 1782892800000,
+    "markPrice": "1.04331798",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005278",
+    "fundingTime": 1782921600000,
+    "markPrice": "1.06022469",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001531",
+    "fundingTime": 1782950400000,
+    "markPrice": "1.05260000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002495",
+    "fundingTime": 1782979200000,
+    "markPrice": "1.05810000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006135",
+    "fundingTime": 1783008000000,
+    "markPrice": "1.09320000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002751",
+    "fundingTime": 1783036800000,
+    "markPrice": "1.08740000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001337",
+    "fundingTime": 1783065600007,
+    "markPrice": "1.10192221",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003244",
+    "fundingTime": 1783094400000,
+    "markPrice": "1.11960000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001290",
+    "fundingTime": 1783123200000,
+    "markPrice": "1.13425140",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000010",
+    "fundingTime": 1783152000000,
+    "markPrice": "1.13900000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002057",
+    "fundingTime": 1783180800007,
+    "markPrice": "1.17190000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004394",
+    "fundingTime": 1783209600003,
+    "markPrice": "1.15691795",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004065",
+    "fundingTime": 1783238400001,
+    "markPrice": "1.13960455",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002542",
+    "fundingTime": 1783267200000,
+    "markPrice": "1.13640000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000911",
+    "fundingTime": 1783296000000,
+    "markPrice": "1.15679861",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002252",
+    "fundingTime": 1783324800000,
+    "markPrice": "1.14540000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001333",
+    "fundingTime": 1783353600000,
+    "markPrice": "1.14410000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004727",
+    "fundingTime": 1783382400000,
+    "markPrice": "1.14450000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003439",
+    "fundingTime": 1783411200000,
+    "markPrice": "1.12619346",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004840",
+    "fundingTime": 1783440000000,
+    "markPrice": "1.13009481",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000072",
+    "fundingTime": 1783468800000,
+    "markPrice": "1.11140000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000135",
+    "fundingTime": 1783497600000,
+    "markPrice": "1.09351277",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000309",
+    "fundingTime": 1783526400000,
+    "markPrice": "1.07336924",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004255",
+    "fundingTime": 1783555200000,
+    "markPrice": "1.09030000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002554",
+    "fundingTime": 1783584000001,
+    "markPrice": "1.09754285",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001575",
+    "fundingTime": 1783612800001,
+    "markPrice": "1.08950000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000046",
+    "fundingTime": 1783641600000,
+    "markPrice": "1.09290000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007730",
+    "fundingTime": 1783670400005,
+    "markPrice": "1.10500000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005961",
+    "fundingTime": 1783699200005,
+    "markPrice": "1.10320000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008733",
+    "fundingTime": 1783728000000,
+    "markPrice": "1.10410000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004839",
+    "fundingTime": 1783756800000,
+    "markPrice": "1.10716805",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006928",
+    "fundingTime": 1783785600000,
+    "markPrice": "1.11273409",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000101",
+    "fundingTime": 1783814400000,
+    "markPrice": "1.09630000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000053",
+    "fundingTime": 1783843200003,
+    "markPrice": "1.09082443",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001893",
+    "fundingTime": 1783872000000,
+    "markPrice": "1.10122536",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000045",
+    "fundingTime": 1783900800000,
+    "markPrice": "1.08541855",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003910",
+    "fundingTime": 1783929600001,
+    "markPrice": "1.07904815",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006040",
+    "fundingTime": 1783958400004,
+    "markPrice": "1.07202737",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002766",
+    "fundingTime": 1783987200000,
+    "markPrice": "1.06688886",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001360",
+    "fundingTime": 1784016000002,
+    "markPrice": "1.06820000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005549",
+    "fundingTime": 1784044800001,
+    "markPrice": "1.10430000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007030",
+    "fundingTime": 1784073600005,
+    "markPrice": "1.11115340",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008462",
+    "fundingTime": 1784102400002,
+    "markPrice": "1.10330000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002785",
+    "fundingTime": 1784131200000,
+    "markPrice": "1.12570000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001081",
+    "fundingTime": 1784160000000,
+    "markPrice": "1.11268255",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000773",
+    "fundingTime": 1784188800003,
+    "markPrice": "1.10565504",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007935",
+    "fundingTime": 1784217600002,
+    "markPrice": "1.11430000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000063",
+    "fundingTime": 1784246400000,
+    "markPrice": "1.08659585",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002412",
+    "fundingTime": 1784275200010,
+    "markPrice": "1.08322718",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001737",
+    "fundingTime": 1784304000004,
+    "markPrice": "1.08279377",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000497",
+    "fundingTime": 1784332800000,
+    "markPrice": "1.08842981",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001003",
+    "fundingTime": 1784361600000,
+    "markPrice": "1.08830000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000211",
+    "fundingTime": 1784390400001,
+    "markPrice": "1.08598782",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002213",
+    "fundingTime": 1784419200003,
+    "markPrice": "1.09220000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002545",
+    "fundingTime": 1784448000000,
+    "markPrice": "1.09480000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000168",
+    "fundingTime": 1784476800001,
+    "markPrice": "1.09726284",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004877",
+    "fundingTime": 1784505600000,
+    "markPrice": "1.09727166",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004537",
+    "fundingTime": 1784534400001,
+    "markPrice": "1.08970000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005088",
+    "fundingTime": 1784563200004,
+    "markPrice": "1.11220243",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008008",
+    "fundingTime": 1784592000001,
+    "markPrice": "1.11180000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001650",
+    "fundingTime": 1784620800000,
+    "markPrice": "1.13570000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000288",
+    "fundingTime": 1784649600002,
+    "markPrice": "1.15439569",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1784678400000,
+    "markPrice": "1.14320000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003779",
+    "fundingTime": 1784707200000,
+    "markPrice": "1.13043091",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000153",
+    "fundingTime": 1784736000001,
+    "markPrice": "1.15084524",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003673",
+    "fundingTime": 1784764800000,
+    "markPrice": "1.14150000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001063",
+    "fundingTime": 1784793600000,
+    "markPrice": "1.13312196",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000795",
+    "fundingTime": 1784822400000,
+    "markPrice": "1.11202815",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005017",
+    "fundingTime": 1784851200000,
+    "markPrice": "1.10730000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001190",
+    "fundingTime": 1784880000000,
+    "markPrice": "1.11335318",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000414",
+    "fundingTime": 1784908800008,
+    "markPrice": "1.09050215",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003905",
+    "fundingTime": 1784937600002,
+    "markPrice": "1.09130000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000998",
+    "fundingTime": 1784966400000,
+    "markPrice": "1.08737189",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004112",
+    "fundingTime": 1784995200000,
+    "markPrice": "1.09782796",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001639",
+    "fundingTime": 1785024000000,
+    "markPrice": "1.09721755",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004517",
+    "fundingTime": 1785052800002,
+    "markPrice": "1.09830000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001298",
+    "fundingTime": 1785081600000,
+    "markPrice": "1.10400000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000875",
+    "fundingTime": 1785110400010,
+    "markPrice": "1.11262194",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009741",
+    "fundingTime": 1785139200000,
+    "markPrice": "1.10707970",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003551",
+    "fundingTime": 1785168000001,
+    "markPrice": "1.08569467",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00008642",
+    "fundingTime": 1785196800000,
+    "markPrice": "1.06534834",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00016009",
+    "fundingTime": 1785225600000,
+    "markPrice": "1.05540000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005592",
+    "fundingTime": 1785254400000,
+    "markPrice": "1.06469859",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005522",
+    "fundingTime": 1785283200000,
+    "markPrice": "1.06860000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1785312000002,
+    "markPrice": "1.08980000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1785340800000,
+    "markPrice": "1.06791455",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005880",
+    "fundingTime": 1785369600000,
+    "markPrice": "1.07332131",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1785398400000,
+    "markPrice": "1.07630981",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1785427200000,
+    "markPrice": "1.09180000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1785456000003,
+    "markPrice": "1.08245926",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002246",
+    "fundingTime": 1785484800000,
+    "markPrice": "1.07909179",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001979",
+    "fundingTime": 1785513600000,
+    "markPrice": "1.06000000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000592",
+    "fundingTime": 1785542400001,
+    "markPrice": "1.06130295",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001730",
+    "fundingTime": 1785571200000,
+    "markPrice": "1.06152680",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003103",
+    "fundingTime": 1785600000000,
+    "markPrice": "1.06240000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004349",
+    "fundingTime": 1785628800000,
+    "markPrice": "1.06003133",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1785657600000,
+    "markPrice": "1.08320000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1785686400000,
+    "markPrice": "1.07990000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007573",
+    "fundingTime": 1785715200000,
+    "markPrice": "1.08650000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008556",
+    "fundingTime": 1785744000000,
+    "markPrice": "1.06768013",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005010",
+    "fundingTime": 1785772800000,
+    "markPrice": "1.08344760",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007174",
+    "fundingTime": 1785801600004,
+    "markPrice": "1.07540000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1785830400002,
+    "markPrice": "1.07836467",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005086",
+    "fundingTime": 1785859200000,
+    "markPrice": "1.07695791",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000903",
+    "fundingTime": 1785888000003,
+    "markPrice": "1.07330815",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002482",
+    "fundingTime": 1785916800004,
+    "markPrice": "1.06669581",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001928",
+    "fundingTime": 1785945600000,
+    "markPrice": "1.06021931",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002175",
+    "fundingTime": 1785974400002,
+    "markPrice": "1.06160000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006991",
+    "fundingTime": 1786003200000,
+    "markPrice": "1.04875046",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003340",
+    "fundingTime": 1786032000000,
+    "markPrice": "1.04870000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00009458",
+    "fundingTime": 1786060800000,
+    "markPrice": "1.03461980",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000183",
+    "fundingTime": 1786089600000,
+    "markPrice": "1.02810000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002342",
+    "fundingTime": 1786118400000,
+    "markPrice": "1.02730716",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001429",
+    "fundingTime": 1786147200001,
+    "markPrice": "1.02050000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009308",
+    "fundingTime": 1786176000000,
+    "markPrice": "1.03420000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008001",
+    "fundingTime": 1786204800002,
+    "markPrice": "1.04482454",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1786233600000,
+    "markPrice": "1.03917448",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1786262400005,
+    "markPrice": "1.03680000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1786291200000,
+    "markPrice": "1.04290000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009516",
+    "fundingTime": 1786320000001,
+    "markPrice": "1.02929304",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1786348800005,
+    "markPrice": "1.03710000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003660",
+    "fundingTime": 1786377600000,
+    "markPrice": "1.02263428",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003071",
+    "fundingTime": 1786406400000,
+    "markPrice": "1.01160000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006363",
+    "fundingTime": 1786435200006,
+    "markPrice": "1.00431564",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003077",
+    "fundingTime": 1786464000000,
+    "markPrice": "1.00331192",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009357",
+    "fundingTime": 1786492800001,
+    "markPrice": "1.02250000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1786521600000,
+    "markPrice": "1.02030000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006092",
+    "fundingTime": 1786550400000,
+    "markPrice": "1.01233109",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002365",
+    "fundingTime": 1786579200000,
+    "markPrice": "1.00510000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004616",
+    "fundingTime": 1786608000000,
+    "markPrice": "1.01263403",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007061",
+    "fundingTime": 1786636800000,
+    "markPrice": "1.00240375",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005438",
+    "fundingTime": 1786665600000,
+    "markPrice": "1.00891748",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008115",
+    "fundingTime": 1786694400001,
+    "markPrice": "1.00410000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005436",
+    "fundingTime": 1786723200001,
+    "markPrice": "1.00625495",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00018934",
+    "fundingTime": 1786752000003,
+    "markPrice": "0.99885996",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003471",
+    "fundingTime": 1786780800002,
+    "markPrice": "1.00230000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001154",
+    "fundingTime": 1786809600000,
+    "markPrice": "1.00174765",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006752",
+    "fundingTime": 1786838400000,
+    "markPrice": "1.00214418",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003198",
+    "fundingTime": 1786867200002,
+    "markPrice": "1.00196145",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004883",
+    "fundingTime": 1786896000000,
+    "markPrice": "1.00130000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00011978",
+    "fundingTime": 1786924800001,
+    "markPrice": "0.99291144",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009497",
+    "fundingTime": 1786953600003,
+    "markPrice": "1.00254173",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002599",
+    "fundingTime": 1786982400005,
+    "markPrice": "1.00630000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001307",
+    "fundingTime": 1787011200006,
+    "markPrice": "1.00250000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007012",
+    "fundingTime": 1787040000001,
+    "markPrice": "0.99593453",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007237",
+    "fundingTime": 1787068800003,
+    "markPrice": "1.00350000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000179",
+    "fundingTime": 1787097600000,
+    "markPrice": "1.00150000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005125",
+    "fundingTime": 1787126400000,
+    "markPrice": "1.00310635",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005341",
+    "fundingTime": 1787155200004,
+    "markPrice": "1.06723610",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787184000001,
+    "markPrice": "1.10543532",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787212800000,
+    "markPrice": "1.11199472",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787241600005,
+    "markPrice": "1.26111572",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787270400004,
+    "markPrice": "1.26770000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787299200000,
+    "markPrice": "1.31412772",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787328000001,
+    "markPrice": "1.40283993",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787356800000,
+    "markPrice": "1.45389253",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787385600000,
+    "markPrice": "1.56333079",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787414400000,
+    "markPrice": "1.43990000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787443200000,
+    "markPrice": "1.46180000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787472000000,
+    "markPrice": "1.46163246",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787500800006,
+    "markPrice": "1.49640000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787529600001,
+    "markPrice": "1.51980000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787558400002,
+    "markPrice": "1.47520000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787587200000,
+    "markPrice": "1.50051680",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787616000001,
+    "markPrice": "1.48130000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787644800000,
+    "markPrice": "1.48566555",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000832",
+    "fundingTime": 1787673600005,
+    "markPrice": "1.47800000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004400",
+    "fundingTime": 1787702400000,
+    "markPrice": "1.43350000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009339",
+    "fundingTime": 1787731200005,
+    "markPrice": "1.43210787",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1787760000000,
+    "markPrice": "1.37241380",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009886",
+    "fundingTime": 1787788800000,
+    "markPrice": "1.42193432",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008201",
+    "fundingTime": 1787817600000,
+    "markPrice": "1.41147263",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000080",
+    "fundingTime": 1787846400013,
+    "markPrice": "1.46510000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001394",
+    "fundingTime": 1787875200026,
+    "markPrice": "1.45243340",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000943",
+    "fundingTime": 1787904000000,
+    "markPrice": "1.41980035",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005884",
+    "fundingTime": 1787932800001,
+    "markPrice": "1.40280000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006029",
+    "fundingTime": 1787961600000,
+    "markPrice": "1.38292917",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005009",
+    "fundingTime": 1787990400000,
+    "markPrice": "1.38202745",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001514",
+    "fundingTime": 1788019200002,
+    "markPrice": "1.39250000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000666",
+    "fundingTime": 1788048000000,
+    "markPrice": "1.39565866",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006688",
+    "fundingTime": 1788076800000,
+    "markPrice": "1.39110000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005226",
+    "fundingTime": 1788105600001,
+    "markPrice": "1.39770000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005466",
+    "fundingTime": 1788134400002,
+    "markPrice": "1.35671244",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003624",
+    "fundingTime": 1788163200002,
+    "markPrice": "1.37195847",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003414",
+    "fundingTime": 1788192000001,
+    "markPrice": "1.37220000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008579",
+    "fundingTime": 1788220800005,
+    "markPrice": "1.37928513",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007773",
+    "fundingTime": 1788249600000,
+    "markPrice": "1.37927351",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002577",
+    "fundingTime": 1788278400000,
+    "markPrice": "1.37750000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004744",
+    "fundingTime": 1788307200000,
+    "markPrice": "1.35120000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1788336000001,
+    "markPrice": "1.34490000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009739",
+    "fundingTime": 1788364800005,
+    "markPrice": "1.33640000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1788393600000,
+    "markPrice": "1.35060000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1788422400000,
+    "markPrice": "1.36510839",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003496",
+    "fundingTime": 1788451200000,
+    "markPrice": "1.46430000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1788480000000,
+    "markPrice": "1.45085588",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1788508800000,
+    "markPrice": "1.44324127",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001093",
+    "fundingTime": 1788537600009,
+    "markPrice": "1.39836618",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001527",
+    "fundingTime": 1788566400000,
+    "markPrice": "1.39771017",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001591",
+    "fundingTime": 1788595200000,
+    "markPrice": "1.40390000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002813",
+    "fundingTime": 1788624000001,
+    "markPrice": "1.41170000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000191",
+    "fundingTime": 1788652800000,
+    "markPrice": "1.41180000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001969",
+    "fundingTime": 1788681600000,
+    "markPrice": "1.41605415",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003511",
+    "fundingTime": 1788710400004,
+    "markPrice": "1.41050907",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006707",
+    "fundingTime": 1788739200004,
+    "markPrice": "1.42310000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003551",
+    "fundingTime": 1788768000000,
+    "markPrice": "1.39821564",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004441",
+    "fundingTime": 1788796800003,
+    "markPrice": "1.38261356",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001538",
+    "fundingTime": 1788825600004,
+    "markPrice": "1.39610000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004595",
+    "fundingTime": 1788854400002,
+    "markPrice": "1.38770000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008355",
+    "fundingTime": 1788883200001,
+    "markPrice": "1.43390000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000671",
+    "fundingTime": 1788912000005,
+    "markPrice": "1.41641516",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1788940800004,
+    "markPrice": "1.44060000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004865",
+    "fundingTime": 1788969600002,
+    "markPrice": "1.41660000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00011805",
+    "fundingTime": 1788998400000,
+    "markPrice": "1.39434129",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000653",
+    "fundingTime": 1789027200007,
+    "markPrice": "1.38193959",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005009",
+    "fundingTime": 1789056000002,
+    "markPrice": "1.35600000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001102",
+    "fundingTime": 1789084800008,
+    "markPrice": "1.33400000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002345",
+    "fundingTime": 1789113600000,
+    "markPrice": "1.35080000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006046",
+    "fundingTime": 1789142400000,
+    "markPrice": "1.37383129",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003199",
+    "fundingTime": 1789171200001,
+    "markPrice": "1.35572102",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003617",
+    "fundingTime": 1789200000003,
+    "markPrice": "1.36860000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006852",
+    "fundingTime": 1789228800000,
+    "markPrice": "1.37190000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000129",
+    "fundingTime": 1789257600002,
+    "markPrice": "1.36574593",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001661",
+    "fundingTime": 1789286400000,
+    "markPrice": "1.35710000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00008374",
+    "fundingTime": 1789315200000,
+    "markPrice": "1.34274473",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005053",
+    "fundingTime": 1789344000000,
+    "markPrice": "1.34020000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789372800000,
+    "markPrice": "1.39005800",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007511",
+    "fundingTime": 1789401600000,
+    "markPrice": "1.40260000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789430400000,
+    "markPrice": "1.42291751",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004435",
+    "fundingTime": 1789459200005,
+    "markPrice": "1.39340000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002023",
+    "fundingTime": 1789488000001,
+    "markPrice": "1.38890000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006337",
+    "fundingTime": 1789516800001,
+    "markPrice": "1.28255548",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000596",
+    "fundingTime": 1789545600002,
+    "markPrice": "1.28460151",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002659",
+    "fundingTime": 1789574400001,
+    "markPrice": "1.26560000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004879",
+    "fundingTime": 1789603200000,
+    "markPrice": "1.29871310",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000920",
+    "fundingTime": 1789632000003,
+    "markPrice": "1.30150000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000365",
+    "fundingTime": 1789660800000,
+    "markPrice": "1.30730000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00007370",
+    "fundingTime": 1789689600003,
+    "markPrice": "1.29543570",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009356",
+    "fundingTime": 1789718400006,
+    "markPrice": "1.32831535",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789747200000,
+    "markPrice": "1.38490000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789776000000,
+    "markPrice": "1.39636831",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789804800002,
+    "markPrice": "1.41050000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789833600000,
+    "markPrice": "1.43052457",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789862400000,
+    "markPrice": "1.41040000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789891200000,
+    "markPrice": "1.37920007",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001286",
+    "fundingTime": 1789920000000,
+    "markPrice": "1.39043988",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789948800007,
+    "markPrice": "1.40990000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1789977600004,
+    "markPrice": "1.43840000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790006400002,
+    "markPrice": "1.49501662",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790035200000,
+    "markPrice": "1.53620000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790064000004,
+    "markPrice": "1.51830000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790092800000,
+    "markPrice": "1.57160000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790121600000,
+    "markPrice": "1.57200463",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790150400004,
+    "markPrice": "1.61581926",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008418",
+    "fundingTime": 1790179200004,
+    "markPrice": "1.50584471",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00004943",
+    "fundingTime": 1790208000002,
+    "markPrice": "1.50009116",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000087",
+    "fundingTime": 1790236800000,
+    "markPrice": "1.50581482",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001752",
+    "fundingTime": 1790265600005,
+    "markPrice": "1.51400000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002116",
+    "fundingTime": 1790294400002,
+    "markPrice": "1.53400567",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790323200000,
+    "markPrice": "1.53390000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000973",
+    "fundingTime": 1790352000002,
+    "markPrice": "1.57567414",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790380800000,
+    "markPrice": "1.56780000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009528",
+    "fundingTime": 1790409600001,
+    "markPrice": "1.55177350",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006835",
+    "fundingTime": 1790438400001,
+    "markPrice": "1.55200367",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000188",
+    "fundingTime": 1790467200000,
+    "markPrice": "1.52650792",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00009702",
+    "fundingTime": 1790496000001,
+    "markPrice": "1.53805082",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001391",
+    "fundingTime": 1790524800000,
+    "markPrice": "1.51590000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002506",
+    "fundingTime": 1790553600000,
+    "markPrice": "1.51600000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007917",
+    "fundingTime": 1790582400001,
+    "markPrice": "1.47073470",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00003017",
+    "fundingTime": 1790611200001,
+    "markPrice": "1.49444389",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005412",
+    "fundingTime": 1790640000000,
+    "markPrice": "1.49612367",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008793",
+    "fundingTime": 1790668800000,
+    "markPrice": "1.50743307",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00007493",
+    "fundingTime": 1790697600000,
+    "markPrice": "1.51750000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002104",
+    "fundingTime": 1790726400000,
+    "markPrice": "1.49000000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000497",
+    "fundingTime": 1790755200000,
+    "markPrice": "1.49980000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00008468",
+    "fundingTime": 1790784000002,
+    "markPrice": "1.50461261",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00000609",
+    "fundingTime": 1790812800001,
+    "markPrice": "1.48920000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006281",
+    "fundingTime": 1790841600005,
+    "markPrice": "1.48601693",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002708",
+    "fundingTime": 1790870400003,
+    "markPrice": "1.48670000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790899200002,
+    "markPrice": "1.49370000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790928000000,
+    "markPrice": "1.53150000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1790956800000,
+    "markPrice": "1.50634587",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00009326",
+    "fundingTime": 1790985600001,
+    "markPrice": "1.48391768",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003742",
+    "fundingTime": 1791014400000,
+    "markPrice": "1.48141382",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001134",
+    "fundingTime": 1791043200001,
+    "markPrice": "1.48928931",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003391",
+    "fundingTime": 1791072000000,
+    "markPrice": "1.48554861",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00004222",
+    "fundingTime": 1791100800001,
+    "markPrice": "1.49846827",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1791129600002,
+    "markPrice": "1.50416211",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1791158400002,
+    "markPrice": "1.52023306",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1791187200001,
+    "markPrice": "1.52176174",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1791216000000,
+    "markPrice": "1.49204712",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006319",
+    "fundingTime": 1791244800003,
+    "markPrice": "1.50720000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002467",
+    "fundingTime": 1791273600001,
+    "markPrice": "1.49940000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00010000",
+    "fundingTime": 1791302400000,
+    "markPrice": "1.50218063",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001181",
+    "fundingTime": 1791331200002,
+    "markPrice": "1.49610000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005789",
+    "fundingTime": 1791360000002,
+    "markPrice": "1.47125917",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001043",
+    "fundingTime": 1791388800000,
+    "markPrice": "1.43390000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006522",
+    "fundingTime": 1791417600000,
+    "markPrice": "1.42042214",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000863",
+    "fundingTime": 1791446400000,
+    "markPrice": "1.40690000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001780",
+    "fundingTime": 1791475200000,
+    "markPrice": "1.34570000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00016740",
+    "fundingTime": 1791504000000,
+    "markPrice": "1.37949709",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006300",
+    "fundingTime": 1791532800000,
+    "markPrice": "1.40339702",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00005768",
+    "fundingTime": 1791561600000,
+    "markPrice": "1.38187997",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001058",
+    "fundingTime": 1791590400002,
+    "markPrice": "1.39500000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001940",
+    "fundingTime": 1791619200001,
+    "markPrice": "1.40610000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003817",
+    "fundingTime": 1791648000002,
+    "markPrice": "1.40761663",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00000455",
+    "fundingTime": 1791676800007,
+    "markPrice": "1.40160000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002920",
+    "fundingTime": 1791705600000,
+    "markPrice": "1.39229160",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00006007",
+    "fundingTime": 1791734400002,
+    "markPrice": "1.42490000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00002100",
+    "fundingTime": 1791763200006,
+    "markPrice": "1.40950000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00003838",
+    "fundingTime": 1791792000002,
+    "markPrice": "1.41200000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "0.00001311",
+    "fundingTime": 1791820800006,
+    "markPrice": "1.37658661",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00006454",
+    "fundingTime": 1791849600002,
+    "markPrice": "1.34152445",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00001494",
+    "fundingTime": 1791878400005,
+    "markPrice": "1.37724204",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00002908",
+    "fundingTime": 1791907200000,
+    "markPrice": "1.36990000",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  },
+  {
+    "fundingRate": "-0.00005715",
+    "fundingTime": 1791936000001,
+    "markPrice": "1.36530949",
+    "rateType": "Regular",
+    "symbol": "XRPUSDT"
+  }
+]

@@ -1,0 +1,162 @@
+Please review this Phase 2 audit and dev-fold result for an evolutionary crypto trading bot. We are trying hard to avoid lookahead bias and overfitting.
+
+Important constraints:
+- Final folds remain sealed.
+- Final mode was not run.
+- Phase 2 was run once on development folds only after pre-registration.
+- No tuning after seeing results.
+- Primary metric was pre-registered as top-25 ensemble net return.
+- Pass rule: top-25 ensemble must beat cash and same-exposure passive in at least 6 of 7 development folds.
+- Champion and population median are context only, not decisive.
+- A real feature only counts as a pass if it also clearly beats its shuffled control.
+
+Frozen rules:
+- Price row mapping: Binance daily candle date D opens at D 00:00 UTC and closes at D+1 00:00 UTC. For a price row labeled D, external-data decision time is T = D+1 00:00 UTC.
+- External data safety rule: only use rows with available_at_utc <= T - 1 hour.
+- Fear & Greed availability: available_at_utc = value_date_utc + 1 day.
+- Fear & Greed feature: latest usable value / 100, max age 3 days measured from value_date_utc to safety cutoff. If too old or missing, raw neutral 0.5 before standardization.
+- Funding feature: mean Binance funding settlements in the 24h window ending at T - 1 hour. Require at least 2 settlements, otherwise raw neutral 0.0.
+- Standardization uses historical training data only inside each fold.
+- Baseline uses the same feature columns; external placeholder is constant raw 0.
+- Shuffled controls use a fixed-seed shuffle of days, same shuffled day order for all coins.
+- Evolution seeds/settings were identical: seeds 1..3, 60 generations, 8 windows, 9 folds with latest 2 sealed.
+- Shuffled control seeds: 101, 202, 303, 404, 505.
+
+Audit output:
+
+PRICE_ROW_MAPPING
+Binance daily candle date D opens at D 00:00 UTC and closes at D+1 00:00 UTC.
+For a price row labeled D, features using that close are available at decision time T = D+1 00:00 UTC.
+External rows must satisfy available_at_utc <= T - 1h.
+chosen_decision_time_T=2026-04-17T00:00:00+00:00
+corresponding_price_row_D=2026-04-16
+external_safety_cutoff=2026-04-16 23:00:00+00:00
+
+FUNDING_SELECTION
+decision_time_utc=2026-04-17T00:00:00+00:00
+safety_cutoff_utc=2026-04-16T23:00:00+00:00
+window_start_exclusive_utc=2026-04-15T23:00:00+00:00
+min_settlements_rule=2_or_neutral_0.0
+funding_rows_selected=18
+funding_assertions=PASS
+
+Funding selected three settlements for each symbol at 2026-04-16 00:00, 08:00, and 16:00 UTC.
+
+FUNDING_FEATURE_MEANS
+BTC   -0.000028
+ETH   -0.000036
+SOL    0.000091
+BNB    0.000036
+XRP    0.000038
+ADA    0.000100
+
+FEAR_GREED_SELECTION
+decision_time_utc=2026-04-17T00:00:00+00:00
+safety_cutoff_utc=2026-04-16T23:00:00+00:00
+available_at_rule=value_date_utc + 1 day
+neutral_raw_value=0.5
+Selected row:
+source: alternative.me
+value_date_utc: 2026-04-15 00:00:00+00:00
+available_at_utc: 2026-04-16 00:00:00+00:00
+effective_available_at_utc: 2026-04-16 00:00:00+00:00
+value: 23
+classification: Extreme Fear
+row_age=1 days 23:00:00
+feature_value=0.2300
+max_age_rule=selected
+fear_greed_assertions=PASS
+
+FEAR_GREED_GAP_TEST
+gap_previous_value_date=2018-04-13T00:00:00+00:00
+gap_next_value_date=2018-04-17T00:00:00+00:00
+gap_size=4 days 00:00:00
+test_decision_time_utc=2018-04-18T00:00:00+00:00
+safety_cutoff_utc=2018-04-17T23:00:00+00:00
+selected_value_date=2018-04-13T00:00:00+00:00
+row_age=4 days 23:00:00
+feature_value=0.5000
+max_age_rule=neutral_too_old
+fear_greed_gap_assertions=PASS
+
+FUNDING_EDGE_CASES
+zero_settlements: count=0 value=0.00000000 rule=neutral_too_few_settlements
+one_settlement: count=1 value=0.00000000 rule=neutral_too_few_settlements
+two_settlements: count=2 value=0.00010000 rule=mean_selected
+funding_edge_assertions=PASS
+
+FUTURE_POISONING_TEST
+scope=all days used by development folds, including training/recent/test windows
+dev_fold_decision_times_tested=10465
+feature_checks_tested=20930
+future_poisoning_assertions=PASS
+
+STANDARDIZATION_GARBAGE_TEST
+Garbage was written into recent+holdout/test windows; historical mean/std stayed unchanged.
+funding fold=2 period=2026-04-17..2026-06-15 sentiment_mu=0.0000301570 sentiment_sd=0.0002692438
+funding fold=3 period=2026-02-16..2026-04-16 sentiment_mu=0.0000309734 sentiment_sd=0.0002742082
+fear_greed fold=2 period=2026-04-17..2026-06-15 sentiment_mu=0.4696398714 sentiment_sd=0.2076662530
+fear_greed fold=3 period=2026-02-16..2026-04-16 sentiment_mu=0.4788762542 sentiment_sd=0.2051701516
+standardization_garbage_assertions=PASS
+
+NEUTRAL_FALLBACK_COUNTS
+development_unique_price_rows=1675
+funding_neutral_cells=601/10050 (5.98%)
+fear_greed_neutral_days=59/1675 (3.52%)
+
+FILE_HASHES
+phase2_experiments.py sha256=089a2a1236417038cbdce4aec10e192a86348a7d5c63ce994477cc2bf449704f
+audit_point_in_time.py sha256=997896e5605a5f7d61d64f0fd3657a8bbafb1aaeefbd03128db6b6ef15f0df7a
+data/funding_rates.csv sha256=9df0214ae82e6bb296a278a29e282d72a3134c1e3b530ec94dbe6428015cc3e0
+data/fear_greed.csv sha256=2b92eea4e113ea5c8f803bdd3509817b43f8a62192003fc3fcf688c84320ea56
+prices_cache.csv sha256=aed19dc9fae83e29b70dd2a54b286d398fd14a1addd711d358c6a46adc4e0b2b
+
+Phase 2 dev-fold results:
+
+Baseline:
+- top-25 ensemble success folds: 0/7
+- mean net return: -2.35%
+- median net return: -2.10%
+- min/max fold net: -6.36% / +0.90%
+
+Funding feature:
+- top-25 ensemble success folds: 0/7
+- mean net return: -2.45%
+- median net return: -3.61%
+- min/max fold net: -5.66% / +2.72%
+
+Fear & Greed feature:
+- top-25 ensemble success folds: 0/7
+- mean net return: -2.82%
+- median net return: -2.08%
+- min/max fold net: -9.13% / +3.11%
+
+Funding shuffled controls, 5 seeds:
+- success-fold range: 0..1
+- mean-net range: -3.83%..-1.86%
+
+Fear & Greed shuffled controls, 5 seeds:
+- success-fold range: 0..2
+- mean-net range: -2.63%..-1.17%
+
+Suite summary:
+label,successes,mean_net_pct,median_net_pct,min_net_pct,max_net_pct
+baseline,0,-2.35,-2.10,-6.36,0.90
+funding,0,-2.45,-3.61,-5.66,2.72
+fear_greed,0,-2.82,-2.08,-9.13,3.11
+funding_shuffled_101,0,-1.86,-3.06,-6.57,7.93
+funding_shuffled_202,1,-1.97,-0.67,-5.98,2.21
+funding_shuffled_303,0,-2.35,-2.16,-6.88,3.02
+funding_shuffled_404,0,-1.98,-2.26,-8.31,5.90
+funding_shuffled_505,1,-3.83,-3.57,-14.80,1.27
+fear_greed_shuffled_101,2,-1.71,-3.33,-7.80,3.17
+fear_greed_shuffled_202,0,-2.63,-3.04,-8.04,4.21
+fear_greed_shuffled_303,1,-1.17,-0.54,-8.37,4.36
+fear_greed_shuffled_404,1,-2.37,-1.71,-9.44,3.53
+fear_greed_shuffled_505,0,-1.48,-0.85,-6.64,0.33
+
+Interpretation requested:
+1. Are the point-in-time audits sufficient, or do you see any remaining lookahead/standardization leak?
+2. Given the pre-registered rules, is the honest conclusion that both real Phase 2 features failed?
+3. Does the stop rule apply: no more feature experiments on this bot design and fold set?
+4. Any recommendations should avoid tuning on these same folds.

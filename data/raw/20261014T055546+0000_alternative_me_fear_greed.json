@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "time_until_update": "65053",
+      "timestamp": "1791936000",
+      "value": "62",
+      "value_classification": "Greed"
+    }
+  ],
+  "metadata": {
+    "error": null
+  },
+  "name": "Fear and Greed Index"
+}

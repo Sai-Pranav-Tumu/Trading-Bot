@@ -1,8 +1,0 @@
-mode: dev
-date_range: 2021-11-14..2026-10-13
-sealed_latest_folds: 2
-development_success_rule: 6/7
-champion_success_folds: 0/7
-evolved_success_folds: 0/7
-ensemble_success_folds: 0/7
-ensemble_verdict: FAIL
